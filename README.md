@@ -1,6 +1,5 @@
-# shopdienthoai
-E-commerce phone shop website built with PHP and MySQL
 # Shop Điện Thoại
+E-commerce phone shop website built with PHP and MySQL
 
 Website bán điện thoại phục vụ học tập.
 
